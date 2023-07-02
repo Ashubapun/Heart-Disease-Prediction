@@ -1,0 +1,2 @@
+Heart Disease Prediction :
+The Heart Disease Prediction project utilizes classification techniques such as Decision Tree, Random Forest, XGBoost, SVM regressor, and logistic regression to predict heart disease. After implementing cross-validation, random forest achieved the highest accuracy among the models. This project aims to provide accurate predictions for heart disease based on various factors and can aid in early detection and prevention strategies.
